@@ -1,13 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500&display=swap');
 
 /*Color*/
+:root {
+  --dark-blue: hsl(218, 44%, 22%);
+  --blue:  #2C7DFA;
+
+  --grayish-blue: hsl(220, 15%, 55%);
+  --light-gray: hsl(212, 45%, 89%);
+
+  --color-line: hsl(215, 32%, 27%);
+
+  --white: #fff;
+
+}
+
 .dark-blue
 {
   color: hsl(218, 44%, 22%);
 }
 .blue
 {
-  color: #2C7DFA
+  color: #2C7DFA;
 }
 .back-grayish-blue
 {
@@ -74,7 +87,6 @@
 
 main 
 {
-  align-items: center;
   position: fixed;
   top: 0;
   bottom: 0;
