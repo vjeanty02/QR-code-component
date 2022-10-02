@@ -1,6 +1,6 @@
 # QR-code-component
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -25,9 +25,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot!
-
-![Screenshot](https://user-images.githubusercontent.com/61328054/193437536-521f38df-1fac-4fe1-98cf-a0bca9919529.png)
-
+![Screenshot](https://user-images.githubusercontent.com/61328054/193437625-cc901be7-f488-4f19-9e75-59eb7ab415b4.png)
 
 ### Links
 
