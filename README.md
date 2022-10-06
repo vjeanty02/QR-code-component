@@ -45,3 +45,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@vjeanty02](https://www.frontendmentor.io/profile/vjeanty02)
+- Linkedin - [@vjeanty02](https://www.linkedin.com/in/vjeanty02/)
+- Twitter -  [@vjeanty02](https://twitter.com/vjeanty02)
